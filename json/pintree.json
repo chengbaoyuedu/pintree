@@ -2,7 +2,7 @@
   {
     "type": "folder",
     "addDate": 1709260833597,
-    "title": "🏰 城堡导航家",
+    "title": "🏰城堡导航家🧭",
     "children": [
       {
         "type": "folder",
@@ -71,13 +71,6 @@
             "title": "黄昏横滨港",
             "icon": "https://logo.clearbit.com/www.youtube.com",
             "url": "https://www.youtube.com/watch?v=sUwD3GRPJos"
-          },
-          {
-            "type": "link",
-            "addDate": 1658065925523,
-            "title": "日本晴天场景",
-            "icon": "https://logo.clearbit.com/www.youtube.com",
-            "url": "https://www.youtube.com/watch?v=f2wJ2Muob5w"
           },
           {
             "type": "link",
@@ -183,6 +176,146 @@
             "title": "老物件声音在线存档",
             "icon": "https://logo.clearbit.com/www.conservethesound.de",
             "url": "https://www.conservethesound.de/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724902263066,
+            "title": "‎Apple Music - 网页播放器",
+            "icon": "https://logo.clearbit.com/music.apple.com",
+            "url": "https://music.apple.com/cn/home"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1725030595247,
+        "title": "🧙‍♀️ AI 是赛博世界魔法师",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1725031312464,
+            "title": "OpenAI",
+            "icon": "https://logo.clearbit.com/openai.com",
+            "url": "https://openai.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725030889372,
+            "title": "Kimi.ai - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725030177004,
+            "title": "Ideogram",
+            "icon": "https://logo.clearbit.com/ideogram.ai",
+            "url": "https://ideogram.ai/t/explore"
+          },
+          {
+            "type": "link",
+            "addDate": 1725030838705,
+            "title": "奇域 - 社区",
+            "icon": "https://logo.clearbit.com/www.qiyuai.net",
+            "url": "https://www.qiyuai.net/apps/met/community"
+          },
+          {
+            "type": "link",
+            "addDate": 1725030863736,
+            "title": "奇域 - 创作",
+            "icon": "https://logo.clearbit.com/www.qiyuai.net",
+            "url": "https://www.qiyuai.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725140381243,
+            "title": "Flux AI Image - Free Online Flux AI Image Generator.",
+            "icon": "https://logo.clearbit.com/flux-ai-image.net",
+            "url": "https://flux-ai-image.net/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1724904013506,
+        "title": "📅 废物日课",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1625902576000,
+            "title": "微缩摄影日历",
+            "icon": "https://logo.clearbit.com/miniature-calendar.com",
+            "url": "https://miniature-calendar.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724904478971,
+            "title": "共享日历计划 - 七个梦-即刻",
+            "icon": "https://logo.clearbit.com/web.okjike.com",
+            "url": "https://web.okjike.com/topic/5a6095b39422f900117898a7"
+          },
+          {
+            "type": "link",
+            "addDate": 1724904798282,
+            "title": "@绳子的书与微观世界 的个人主页 - 微博",
+            "icon": "https://logo.clearbit.com/weibo.com",
+            "url": "https://weibo.com/2552181937?refer_flag=1001030103_"
+          },
+          {
+            "type": "link",
+            "addDate": 1724904843151,
+            "title": "@gotonextday 的个人主页 - 微博",
+            "icon": "https://logo.clearbit.com/weibo.com",
+            "url": "https://weibo.com/u/2566997827"
+          },
+          {
+            "type": "link",
+            "addDate": 1724905535101,
+            "title": "应用日报- PriceTag应用推荐 - 即刻",
+            "icon": "https://logo.clearbit.com/web.okjike.com",
+            "url": "https://web.okjike.com/u/01E7DE69-A362-45D8-8C66-1CD50D55A959"
+          },
+          {
+            "type": "link",
+            "addDate": 1724905562647,
+            "title": "小黄鸡_今日头条热点 - 即刻",
+            "icon": "https://logo.clearbit.com/web.okjike.com",
+            "url": "https://web.okjike.com/u/4c134b85-6cef-4aef-ae33-e8962bfe422d"
+          },
+          {
+            "type": "link",
+            "addDate": 1724904919430,
+            "title": "Vincent Bal - Shadowology (@vincent_bal) · Instagram 照片和视频",
+            "icon": "https://logo.clearbit.com/www.instagram.com",
+            "url": "https://www.instagram.com/vincent_bal/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724905750619,
+            "title": "放晴早安 | 小宇宙 - 听播客，上小宇宙",
+            "icon": "https://logo.clearbit.com/www.xiaoyuzhoufm.com",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/62cf88b6141c9d226e6452db"
+          },
+          {
+            "type": "link",
+            "addDate": 1724905768596,
+            "title": "声动早咖啡 | 小宇宙 - 听播客，上小宇宙",
+            "icon": "https://logo.clearbit.com/www.xiaoyuzhoufm.com",
+            "url": "https://www.xiaoyuzhoufm.com/podcast/60de7c003dd577b40d5a40f3"
+          },
+          {
+            "type": "link",
+            "addDate": 1724904978677,
+            "title": "单向历",
+            "icon": "https://logo.clearbit.com/edui123.com",
+            "url": "https://edui123.com/rili/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725244618239,
+            "title": "每日精选-中国诗歌网",
+            "icon": "https://logo.clearbit.com/www.zgshige.com",
+            "url": "https://www.zgshige.com/xmrpd/mrjx/"
           }
         ]
       },
@@ -309,6 +442,20 @@
             "title": "欢迎访问动物学杂志",
             "icon": "https://logo.clearbit.com/dwxzz.ioz.ac.cn",
             "url": "http://dwxzz.ioz.ac.cn/dwxb/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1724828502857,
+            "title": "全球概览杂志，Whole Earth",
+            "icon": "https://logo.clearbit.com/wholeearth.info",
+            "url": "https://wholeearth.info/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724903832191,
+            "title": "Dezeen |《建筑与设计》杂志 --- Dezeen | architecture and design magazine",
+            "icon": "https://logo.clearbit.com/www.dezeen.com",
+            "url": "https://www.dezeen.com/"
           }
         ]
       },
@@ -319,13 +466,6 @@
         "children": [
           {
             "type": "link",
-            "addDate": 1724815923544,
-            "title": "地图 - 动画巡礼 - anitabi - 圣地巡礼 - 聖地巡礼 - せいちじゅんれい - 神奇海螺试验场",
-            "icon": "https://logo.clearbit.com/anitabi.cn",
-            "url": "https://anitabi.cn/map"
-          },
-          {
-            "type": "link",
             "addDate": 1724816676149,
             "title": "Google 地球",
             "icon": "https://logo.clearbit.com/earth.google.com",
@@ -333,10 +473,10 @@
           },
           {
             "type": "link",
-            "addDate": 1724816858652,
-            "title": "Ukraine Interactive map - Ukraine Latest news on live map - liveuamap.com",
-            "icon": "https://logo.clearbit.com/liveuamap.com",
-            "url": "https://liveuamap.com/"
+            "addDate": 1602580516000,
+            "title": "模拟边开车边听音乐",
+            "icon": "https://logo.clearbit.com/driveandlisten.herokuapp.com",
+            "url": "https://driveandlisten.herokuapp.com/"
           },
           {
             "type": "link",
@@ -344,6 +484,34 @@
             "title": "世界广播地图 — World Radio Map",
             "icon": "https://logo.clearbit.com/worldradiomap.com",
             "url": "https://worldradiomap.com/zhongwen"
+          },
+          {
+            "type": "link",
+            "addDate": 1724908701560,
+            "title": "这张世界地图将 1,200 首歌曲精确定位在它们应该在的地方 - Geoawesome --- This world map pin-points 1,200 songs right where they should be - Geoawesome",
+            "icon": "https://logo.clearbit.com/geoawesome.com",
+            "url": "https://geoawesome.com/world-map-pin-points-1200-songs-right/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724908234241,
+            "title": "电影地图 · MVCAT",
+            "icon": "https://logo.clearbit.com/www.mvcat.com",
+            "url": "https://www.mvcat.com/map/"
+          },
+          {
+            "type": "link",
+            "addDate": 1724815923544,
+            "title": "地图 - 动画巡礼 - anitabi - 圣地巡礼 - 聖地巡礼 - せいちじゅんれい - 神奇海螺试验场",
+            "icon": "https://logo.clearbit.com/anitabi.cn",
+            "url": "https://anitabi.cn/map"
+          },
+          {
+            "type": "link",
+            "addDate": 1724816858652,
+            "title": "Ukraine Interactive map - Ukraine Latest news on live map - liveuamap.com",
+            "icon": "https://logo.clearbit.com/liveuamap.com",
+            "url": "https://liveuamap.com/"
           },
           {
             "type": "link",
@@ -459,10 +627,17 @@
           },
           {
             "type": "link",
-            "addDate": 1602580516000,
-            "title": "模拟边开车边听音乐",
-            "icon": "https://logo.clearbit.com/driveandlisten.herokuapp.com",
-            "url": "https://driveandlisten.herokuapp.com/"
+            "addDate": 1724827906652,
+            "title": "Pintree",
+            "icon": "https://logo.clearbit.com/chengbaoyuedu.github.io",
+            "url": "https://chengbaoyuedu.github.io/pintree/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725158410808,
+            "title": "播客小镇",
+            "icon": "https://logo.clearbit.com/podtown.xyz",
+            "url": "https://podtown.xyz/"
           }
         ]
       }
